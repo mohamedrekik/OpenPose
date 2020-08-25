@@ -179,7 +179,10 @@ Go to the OpenPose root directory and open a terminal :
 ```
 ## 5.Resources :
 [OpenPose official implemetation (Caffe)](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+
 [Guide for installing OpenPose by Erica Zheng](https://medium.com/@erica.z.zheng/installing-openpose-on-ubuntu-18-04-cuda-10-ebb371cf3442)
+
 [Tutorial for increasing swap size](https://bogdancornianu.com/change-swap-size-in-ubuntu/)
-[Commands for installing CUDA 10.0](https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal)
+
+[Commands for installing CUDA 10.0]((https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal)
 
