@@ -1,5 +1,5 @@
 # OpenPose : Realtime Multi-person Pose Estimation using PAFs [2020]
-[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images. This project was deployed on a Jetson Nano card (NVIDIA). But, the same steps can be followed to deploy the project on a laptop.
+[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images. This project was deployed on a Jetson Nano card (NVIDIA). But, the same steps can be followed to deploy it on a laptop.
 ## Outline :
 - System Configuration
 - Installing Prerequisites
