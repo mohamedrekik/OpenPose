@@ -1,5 +1,5 @@
 # OpenPose : Realtime Multi-person Pose Estimation using PAFs [2020]
-[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images. This work is made by me ([Linkedin](https://www.linkedin.com/in/mohamedrekik/)) as part of my Summer Internship.
+[openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) represents the first real-time multi-person system to jointly detect human body, hand, facial, and foot keypoints (in total 135 keypoints) on single images. This project was deployed on a Jetson Nano card (NVIDIA). But, the same steps can be followed to deploy the project on a laptop.
 ## Outline :
 - System Configuration
 - Installing Prerequisites
@@ -186,3 +186,6 @@ Go to the OpenPose root directory and open a terminal :
 
 [Commands for installing CUDA 10.0](https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal)
 
+### Contact me:
+Email: mohamedrekik1997@gmail.com
+Linkedin: https://linkedin.com/in/mohamedrekik
