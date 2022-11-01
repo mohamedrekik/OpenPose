@@ -187,5 +187,5 @@ Go to the OpenPose root directory and open a terminal :
 [Commands for installing CUDA 10.0](https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=deblocal)
 
 ### Contact me:
-Email: mohamedrekik1997@gmail.com
+Email: mohamedrekik1997@gmail.com 
 Linkedin: https://linkedin.com/in/mohamedrekik
